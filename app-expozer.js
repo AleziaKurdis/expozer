@@ -88,7 +88,6 @@
     }
 
     function setShowEntity(position, rotation, dimensions) {
-        print("SHOW");
         removeShowEntity();
         showSelectedID = Entities.addEntity({
             "type": "Shape",
@@ -120,7 +119,6 @@
     }
 
     function removeShowEntity() {
-        print("REMOVAL");
         if (showSelectedID !== Uuid.NULL) {
             Entities.deleteEntity(showSelectedID);
             showSelectedID = Uuid.NULL;
