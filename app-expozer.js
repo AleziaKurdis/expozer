@@ -98,6 +98,9 @@
             "dimensions": dimensions,
             "rotation": rotation,
             "color": {"red": 255, "green": 196, "blue": 0},
+            "grab": {
+                "grabbable": false
+            },
             "renderLayer": "front",
             "primitiveMode": "lines"
         }, "local");
