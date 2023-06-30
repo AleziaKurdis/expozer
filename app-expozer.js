@@ -4,7 +4,7 @@
 //  Created by Alezia Kurdis, June 17th 2023.
 //  Copyright 2023 Overte e.V.
 //
-//  Overte Application to read the data of the entities arround you.
+//  Overte Application to read the data of the entities around you.
 //
 //  Distributed under the Apache License, Version 2.0.
 //  See the accompanying file LICENSE or http://www.apache.org/licenses/LICENSE-2.0.html
